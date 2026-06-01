@@ -1,10 +1,10 @@
 # 100 Days of MLOps [KodeKloud]
 
-My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud.com/100-days-of-mlops), documenting my solutions and notes for each of the 100 hands-on tasks covering the full MLOps lifecycle.
+My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud.com/100-days-of-mlops) with 100 hands-on tasks covering the full MLOps lifecycle.
 
 | DAY | TASK | STATUS |
 | :-: | :-: | :-: |
-| 1 | Create a Python Virtual Environment for ML | ☐ |
+| 1 | [Create a Python Virtual Environment for ML](./days/1.md) | ✅ |
 | 2 | Set Up and Configure Jupyter Notebook Server | ☐ |
 | 3 | Fix a Broken uv Lockfile Specification | ☐ |
 | 4 | Create a Standard ML Project Structure | ☐ |
