@@ -10,7 +10,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 4 | [Create a Standard ML Project Structure](./days/4.md) | ✅ |
 | 5 | [Create a Makefile for ML Workflow Automation ](./days/5.md) | ✅ |
 | 6 | [Set Up Code Quality Tools for ML Code](./days/6.md) | ✅ |
-| 7 | Package an ML Project as Installable Python Package | ☐ |
+| 7 | [Package an ML Project as Installable Python Package](./days/7.md) | ✅ |
 | 8 | Configure Pre-Commit Hooks for ML Repository | ☐ |
 | 9 | Create a Custom ML Project Template with Cookiecutter | ☐ |
 | 10 | Install and Initialize DVC in an ML Project | ☐ |
