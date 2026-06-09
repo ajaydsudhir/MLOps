@@ -12,7 +12,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 6 | [Set Up Code Quality Tools for ML Code](./days/6.md) | ✅ |
 | 7 | [Package an ML Project as Installable Python Package](./days/7.md) | ✅ |
 | 8 | [Configure Pre-Commit Hooks for ML Repository](./days/8.md) | ✅ |
-| 9 | Create a Custom ML Project Template with Cookiecutter | ☐ |
+| 9 | [Create a Custom ML Project Template with Cookiecutter](./days/9.md) | ✅ |
 | 10 | Install and Initialize DVC in an ML Project | ☐ |
 | 11 | Track a Dataset with DVC | ☐ |
 | 12 | Configure a DVC Remote Storage | ☐ |
