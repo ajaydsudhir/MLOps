@@ -14,7 +14,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 8 | [Configure Pre-Commit Hooks for ML Repository](./days/8.md) | ✅ |
 | 9 | [Create a Custom ML Project Template with Cookiecutter](./days/9.md) | ✅ |
 | 10 | [Install and Initialize DVC in an ML Project](./days/10.md) | ✅ |
-| 11 | Track a Dataset with DVC | ☐ |
+| 11 | [Track a Dataset with DVC](./days/11.md) | ✅ |
 | 12 | Configure a DVC Remote Storage | ☐ |
 | 13 | Pull DVC-Tracked Data from Remote | ☐ |
 | 14 | Create a DVC Pipeline for Data Processing | ☐ |
