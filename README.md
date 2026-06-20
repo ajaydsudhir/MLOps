@@ -23,7 +23,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 17 | [Run and Compare DVC Experiments](./days/17.md) | ✅ |
 | 18 | [Version Datasets and Models Across Git Branches](./days/18.md) | ✅ |
 | 19 | [Build Complete DVC ML Pipeline with Remote Storage and Experiments](./days/19.md) | ✅ |
-| 20 | Install and Start the MLflow Tracking Server | ☐ |
+| 20 | [Install and Start the MLflow Tracking Server](./days/20.md) | ✅ |
 | 21 | Log an ML Experiment to MLflow | ☐ |
 | 22 | Create and Organize MLflow Experiments | ☐ |
 | 23 | Search and Query MLflow Runs | ☐ |
