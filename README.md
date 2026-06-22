@@ -25,7 +25,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 19 | [Build Complete DVC ML Pipeline with Remote Storage and Experiments](./days/19.md) | ✅ |
 | 20 | [Install and Start the MLflow Tracking Server](./days/20.md) | ✅ |
 | 21 | [Log an ML Experiment to MLflow](./days/21.md) | ✅ |
-| 22 | Create and Organize MLflow Experiments | ☐ |
+| 22 | [Create and Organize MLflow Experiments](./days/22.md) | ✅ |
 | 23 | Search and Query MLflow Runs | ☐ |
 | 24 | Enable MLflow Autologging | ☐ |
 | 25 | Register, Version, and Manage Model Lifecycle | ☐ |
