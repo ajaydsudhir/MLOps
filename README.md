@@ -26,7 +26,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 20 | [Install and Start the MLflow Tracking Server](./days/20.md) | ✅ |
 | 21 | [Log an ML Experiment to MLflow](./days/21.md) | ✅ |
 | 22 | [Create and Organize MLflow Experiments](./days/22.md) | ✅ |
-| 23 | Search and Query MLflow Runs | ☐ |
+| 23 | [Search and Query MLflow Runs](./days/23.md) | ✅ |
 | 24 | Enable MLflow Autologging | ☐ |
 | 25 | Register, Version, and Manage Model Lifecycle | ☐ |
 | 26 | Compare Model Runs and Select the Best | ☐ |
