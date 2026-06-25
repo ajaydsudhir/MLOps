@@ -28,7 +28,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 22 | [Create and Organize MLflow Experiments](./days/22.md) | ✅ |
 | 23 | [Search and Query MLflow Runs](./days/23.md) | ✅ |
 | 24 | [Enable MLflow Autologging](./days/24.md) | ✅ |
-| 25 | Register, Version, and Manage Model Lifecycle | ☐ |
+| 25 | [Register, Version, and Manage Model Lifecycle](./days/25.md) | ✅ |
 | 26 | Compare Model Runs and Select the Best | ☐ |
 | 27 | Load Model from Registry with Custom Preprocessing | ☐ |
 | 28 | Fix a Broken MLflow Project and Re-Run It | ☐ |
