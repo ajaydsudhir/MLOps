@@ -30,7 +30,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 24 | [Enable MLflow Autologging](./days/24.md) | ✅ |
 | 25 | [Register, Version, and Manage Model Lifecycle](./days/25.md) | ✅ |
 | 26 | [Compare Model Runs and Select the Best](./days/26.md) | ✅ |
-| 27 | Load Model from Registry with Custom Preprocessing | ☐ |
+| 27 | [Load Model from Registry with Custom Preprocessing](./days/27.md) | ✅ |
 | 28 | Fix a Broken MLflow Project and Re-Run It | ☐ |
 | 29 | Configure MLflow with Remote Tracking Server and Artifact Store | ☐ |
 | 30 | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor | ☐ |
