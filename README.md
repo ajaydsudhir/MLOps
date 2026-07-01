@@ -34,7 +34,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 28 | [Fix a Broken MLflow Project and Re-Run It](./days/28.md) | ✅ |
 | 29 | [Configure MLflow with Remote Tracking Server and Artifact Store](./days/29.md) | ✅ |
 | 30 | [End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor](./days/30.md) | ✅ |
-| 31 | Train a Scikit-Learn Model with Reproducible Script | ☐ |
+| 31 | [Train a Scikit-Learn Model with Reproducible Script](./days/31.md) | ✅ |
 | 32 | Manage Training Configuration with YAML | ☐ |
 | 33 | Evaluate a Trained Model and Generate Classification Report | ☐ |
 | 34 | Implement Cross-Validation for Model Selection | ☐ |
