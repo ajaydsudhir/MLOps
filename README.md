@@ -36,7 +36,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 30 | [End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor](./days/30.md) | ✅ |
 | 31 | [Train a Scikit-Learn Model with Reproducible Script](./days/31.md) | ✅ |
 | 32 | [Manage Training Configuration with YAML](./days/32.md) | ✅ |
-| 33 | Evaluate a Trained Model and Generate Classification Report | ☐ |
+| 33 | [Evaluate a Trained Model and Generate Classification Report](./days/33.md) | ✅ |
 | 34 | Implement Cross-Validation for Model Selection | ☐ |
 | 35 | Hyperparameter Tuning with Optuna | ☐ |
 | 36 | Automated Model Selection with FLAML AutoML | ☐ |
