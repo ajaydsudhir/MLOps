@@ -38,7 +38,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 32 | [Manage Training Configuration with YAML](./days/32.md) | ✅ |
 | 33 | [Evaluate a Trained Model and Generate Classification Report](./days/33.md) | ✅ |
 | 34 | [Implement Cross-Validation for Model Selection](./days/34.md) | ✅ |
-| 35 | Hyperparameter Tuning with Optuna | ☐ |
+| 35 | [Hyperparameter Tuning with Optuna](./days/35.md) | ✅ |
 | 36 | Automated Model Selection with FLAML AutoML | ☐ |
 | 37 | Distributed Model Training with Joblib Parallelization | ☐ |
 | 38 | Build Modular Training Pipeline with Config-Driven Stages | ☐ |
