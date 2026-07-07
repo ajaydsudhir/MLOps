@@ -39,7 +39,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 33 | [Evaluate a Trained Model and Generate Classification Report](./days/33.md) | ✅ |
 | 34 | [Implement Cross-Validation for Model Selection](./days/34.md) | ✅ |
 | 35 | [Hyperparameter Tuning with Optuna](./days/35.md) | ✅ |
-| 36 | Automated Model Selection with FLAML AutoML | ☐ |
+| 36 | [Automated Model Selection with FLAML AutoML](./days/36.md) | ✅ |
 | 37 | Distributed Model Training with Joblib Parallelization | ☐ |
 | 38 | Build Modular Training Pipeline with Config-Driven Stages | ☐ |
 | 39 | Train a PyTorch Model with GPU Support and Checkpointing | ☐ |
