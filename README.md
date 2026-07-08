@@ -40,7 +40,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 34 | [Implement Cross-Validation for Model Selection](./days/34.md) | ✅ |
 | 35 | [Hyperparameter Tuning with Optuna](./days/35.md) | ✅ |
 | 36 | [Automated Model Selection with FLAML AutoML](./days/36.md) | ✅ |
-| 37 | Distributed Model Training with Joblib Parallelization | ☐ |
+| 37 | [Distributed Model Training with Joblib Parallelization](./days/37.md) | ✅ |
 | 38 | Build Modular Training Pipeline with Config-Driven Stages | ☐ |
 | 39 | Train a PyTorch Model with GPU Support and Checkpointing | ☐ |
 | 40 | Production Training System: Tracking, Tuning, and Model Selection | ☐ |
