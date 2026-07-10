@@ -42,7 +42,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 36 | [Automated Model Selection with FLAML AutoML](./days/36.md) | ✅ |
 | 37 | [Distributed Model Training with Joblib Parallelization](./days/37.md) | ✅ |
 | 38 | [Build Modular Training Pipeline with Config-Driven Stages](./days/38.md) | ✅ |
-| 39 | Train a PyTorch Model with GPU Support and Checkpointing | ☐ |
+| 39 | [Make a PyTorch Trainer Device-Aware with Checkpointing](./days/39.md) | ✅ |
 | 40 | Production Training System: Tracking, Tuning, and Model Selection | ☐ |
 | 41 | Install and Initialize a Feast Feature Store | ☐ |
 | 42 | Define Feature Views in Feast | ☐ |
