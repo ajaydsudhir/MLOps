@@ -43,7 +43,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 37 | [Distributed Model Training with Joblib Parallelization](./days/37.md) | ✅ |
 | 38 | [Build Modular Training Pipeline with Config-Driven Stages](./days/38.md) | ✅ |
 | 39 | [Make a PyTorch Trainer Device-Aware with Checkpointing](./days/39.md) | ✅ |
-| 40 | Production Training System: Tracking, Tuning, and Model Selection | ☐ |
+| 40 | [Fix and Complete a Five-Stage Training Capstone](./days/40.md) | ✅ |
 | 41 | Install and Initialize a Feast Feature Store | ☐ |
 | 42 | Define Feature Views in Feast | ☐ |
 | 43 | Materialize Features to the Online Store | ☐ |
