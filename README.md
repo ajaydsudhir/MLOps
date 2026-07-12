@@ -44,7 +44,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 38 | [Build Modular Training Pipeline with Config-Driven Stages](./days/38.md) | ✅ |
 | 39 | [Make a PyTorch Trainer Device-Aware with Checkpointing](./days/39.md) | ✅ |
 | 40 | [Fix and Complete a Five-Stage Training Capstone](./days/40.md) | ✅ |
-| 41 | Install and Initialize a Feast Feature Store | ☐ |
+| 41 | [Scaffold a Feast Feature Repository and Build a Training Set](./days/41.md) | ✅ |
 | 42 | Define Feature Views in Feast | ☐ |
 | 43 | Materialize Features to the Online Store | ☐ |
 | 44 | Store MLflow's Admin Password in HashiCorp Vault | ☐ |
