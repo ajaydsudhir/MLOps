@@ -46,7 +46,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 40 | [Fix and Complete a Five-Stage Training Capstone](./days/40.md) | ✅ |
 | 41 | [Scaffold a Feast Feature Repository and Build a Training Set](./days/41.md) | ✅ |
 | 42 | [Define a Feast Feature View (Entity + Field Schema)](./days/42.md) | ✅ |
-| 43 | Materialize Features to the Online Store | ☐ |
+| 43 | [Materialize Features and Read Them from the Online Store](./days/43.md) | ✅ |
 | 44 | Store MLflow's Admin Password in HashiCorp Vault | ☐ |
 | 45 | Fix a Broken Vault KV Policy for the MLflow Reader | ☐ |
 | 46 | Author Data-Quality Expectations with Great Expectations | ☐ |
