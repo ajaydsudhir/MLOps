@@ -48,7 +48,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 42 | [Define a Feast Feature View (Entity + Field Schema)](./days/42.md) | ✅ |
 | 43 | [Materialize Features and Read Them from the Online Store](./days/43.md) | ✅ |
 | 44 | [Store MLflow's Admin Password in HashiCorp Vault](./days/44.md) | ✅ |
-| 45 | Fix a Broken Vault KV Policy for the MLflow Reader | ☐ |
+| 45 | [Authenticate MLflow to Vault via AppRole and Fix Its KV Policy](./days/45.md) | ✅ |
 | 46 | Author Data-Quality Expectations with Great Expectations | ☐ |
 | 47 | Debug a Failing Great Expectations Checkpoint | ☐ |
 | 48 | Publish Great Expectations Data Docs as a CI Artefact | ☐ |
