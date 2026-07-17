@@ -49,7 +49,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 43 | [Materialize Features and Read Them from the Online Store](./days/43.md) | ✅ |
 | 44 | [Store MLflow's Admin Password in HashiCorp Vault](./days/44.md) | ✅ |
 | 45 | [Authenticate MLflow to Vault via AppRole and Fix Its KV Policy](./days/45.md) | ✅ |
-| 46 | Author Data-Quality Expectations with Great Expectations | ☐ |
+| 46 | [Author Data-Quality Expectations with Great Expectations](./days/46.md) | ✅ |
 | 47 | Debug a Failing Great Expectations Checkpoint | ☐ |
 | 48 | Publish Great Expectations Data Docs as a CI Artefact | ☐ |
 | 49 | Secrets + Data-Quality Integration Capstone | ☐ |
