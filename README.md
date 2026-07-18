@@ -50,7 +50,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 44 | [Store MLflow's Admin Password in HashiCorp Vault](./days/44.md) | ✅ |
 | 45 | [Authenticate MLflow to Vault via AppRole and Fix Its KV Policy](./days/45.md) | ✅ |
 | 46 | [Author Data-Quality Expectations with Great Expectations](./days/46.md) | ✅ |
-| 47 | Debug a Failing Great Expectations Checkpoint | ☐ |
+| 47 | [Debug a Failing Great Expectations Checkpoint](./days/47.md) | ✅ |
 | 48 | Publish Great Expectations Data Docs as a CI Artefact | ☐ |
 | 49 | Secrets + Data-Quality Integration Capstone | ☐ |
 | 50 | Create Docker Image for ML Training Environment | ☐ |
