@@ -55,7 +55,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 49 | [Secrets + Data-Quality Integration Capstone](./days/49.md) | ✅ |
 | 50 | [Create Docker Image for ML Training Environment](./days/50.md) | ✅ |
 | 51 | [Create Multi-Stage Docker Build for ML Serving](./days/51.md) | ✅ |
-| 52 | Set Up Local ML Dev Environment with Docker Compose | ☐ |
+| 52 | [Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack](./days/52.md) | ✅ |
 | 53 | Create GPU-Enabled Docker Image for Deep Learning | ☐ |
 | 54 | Push ML Model Images to Container Registry | ☐ |
 | 55 | Add Health Checks and Graceful Shutdown to ML Containers | ☐ |
