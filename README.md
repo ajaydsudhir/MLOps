@@ -58,7 +58,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 52 | [Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack](./days/52.md) | ✅ |
 | 53 | [Fix a Broken PyTorch Dockerfile (CPU-Wheel URL)](./days/53.md) | ✅ |
 | 54 | [Push ML Model Images to Container Registry](./days/54.md) | ✅ |
-| 55 | Add Health Checks and Graceful Shutdown to ML Containers | ☐ |
+| 55 | [Fix a Broken Dockerfile HEALTHCHECK and EXPOSE](./days/55.md) | ✅ |
 | 56 | Automate ML Docker Image Building in CI Pipeline | ☐ |
 | 57 | Serve an ML Model with Flask | ☐ |
 | 58 | Serve an ML Model with FastAPI | ☐ |
