@@ -59,7 +59,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 53 | [Fix a Broken PyTorch Dockerfile (CPU-Wheel URL)](./days/53.md) | ✅ |
 | 54 | [Push ML Model Images to Container Registry](./days/54.md) | ✅ |
 | 55 | [Fix a Broken Dockerfile HEALTHCHECK and EXPOSE](./days/55.md) | ✅ |
-| 56 | Automate ML Docker Image Building in CI Pipeline | ☐ |
+| 56 | [Fix a Docker CI Pipeline with Git-SHA Tagging](./days/56.md) | ✅ |
 | 57 | Serve an ML Model with Flask | ☐ |
 | 58 | Serve an ML Model with FastAPI | ☐ |
 | 59 | Run Batch Predictions on a Dataset | ☐ |
