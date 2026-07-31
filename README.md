@@ -62,7 +62,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 56 | [Fix a Docker CI Pipeline with Git-SHA Tagging](./days/56.md) | ✅ |
 | 57 | [Serve an ML Model with Flask](./days/57.md) | ✅ |
 | 58 | [Serve an ML Model with FastAPI](./days/58.md) | ✅ |
-| 59 | Run Batch Predictions on a Dataset | ☐ |
+| 59 | [Run Batch Predictions on a Dataset](./days/59.md) | ✅ |
 | 60 | Package a Model as a BentoML Service | ☐ |
 | 61 | Containerize an ML Model API with Docker | ☐ |
 | 62 | Implement A/B Testing for Model Deployment | ☐ |
