@@ -64,7 +64,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 58 | [Serve an ML Model with FastAPI](./days/58.md) | ✅ |
 | 59 | [Run Batch Predictions on a Dataset](./days/59.md) | ✅ |
 | 60 | [Package a Model as a BentoML Service](./days/60.md) | ✅ |
-| 61 | Containerize an ML Model API with Docker | ☐ |
+| 61 | [Deploy a Model-Serving Container via Portainer](./days/61.md) | ✅ |
 | 62 | Implement A/B Testing for Model Deployment | ☐ |
 | 63 | Implement Async Batch Prediction with Task Queue | ☐ |
 | 64 | Serve Multiple Models Behind Unified API Gateway | ☐ |
