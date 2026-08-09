@@ -66,7 +66,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 60 | [Package a Model as a BentoML Service](./days/60.md) | ✅ |
 | 61 | [Deploy a Model-Serving Container via Portainer](./days/61.md) | ✅ |
 | 62 | [Implement A/B Testing for Model Deployment](./days/62.md) | ✅ |
-| 63 | Implement Async Batch Prediction with Task Queue | ☐ |
+| 63 | [Async Predictions with a Redis-Backed Worker](./days/63.md) | ✅ |
 | 64 | Serve Multiple Models Behind Unified API Gateway | ☐ |
 | 65 | Implement Canary Deployment for Model Updates | ☐ |
 | 66 | Production Model Serving with Docker Compose | ☐ |
