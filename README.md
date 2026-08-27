@@ -68,7 +68,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 62 | [Implement A/B Testing for Model Deployment](./days/62.md) | ✅ |
 | 63 | [Async Predictions with a Redis-Backed Worker](./days/63.md) | ✅ |
 | 64 | [Serve Multiple Models Behind Unified API Gateway](./days/64.md) | ✅ |
-| 65 | Implement Canary Deployment for Model Updates | ☐ |
+| 65 | [Simulate a Canary Rollout for Model Updates](./days/65.md) | ✅ |
 | 66 | Production Model Serving with Docker Compose | ☐ |
 | 67 | Add Prometheus as a Grafana Data Source | ☐ |
 | 68 | Generate a Model Performance Report | ☐ |
