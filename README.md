@@ -70,7 +70,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 64 | [Serve Multiple Models Behind Unified API Gateway](./days/64.md) | ✅ |
 | 65 | [Simulate a Canary Rollout for Model Updates](./days/65.md) | ✅ |
 | 66 | [Production Model Serving with Docker Compose](./days/66.md) | ✅ |
-| 67 | Add Prometheus as a Grafana Data Source | ☐ |
+| 67 | [Add Prometheus as a Grafana Data Source](./days/67.md) | ✅ |
 | 68 | Generate a Model Performance Report | ☐ |
 | 69 | Generate a Data Quality Report | ☐ |
 | 70 | Create Automated Tests with Evidently Test Suites | ☐ |
