@@ -71,7 +71,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 65 | [Simulate a Canary Rollout for Model Updates](./days/65.md) | ✅ |
 | 66 | [Production Model Serving with Docker Compose](./days/66.md) | ✅ |
 | 67 | [Add Prometheus as a Grafana Data Source](./days/67.md) | ✅ |
-| 68 | Generate a Model Performance Report | ☐ |
+| 68 | [Build a Grafana Time-Series Panel for Prediction Accuracy](./days/68.md) | ✅ |
 | 69 | Generate a Data Quality Report | ☐ |
 | 70 | Create Automated Tests with Evidently Test Suites | ☐ |
 | 71 | Set Up Evidently Monitoring Dashboard | ☐ |
