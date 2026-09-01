@@ -73,7 +73,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 67 | [Add Prometheus as a Grafana Data Source](./days/67.md) | ✅ |
 | 68 | [Build a Grafana Time-Series Panel for Prediction Accuracy](./days/68.md) | ✅ |
 | 69 | [Build a Grafana Table Panel for Per-Feature Data Drift](./days/69.md) | ✅ |
-| 70 | Create Automated Tests with Evidently Test Suites | ☐ |
+| 70 | [Enforce Accuracy Gates with an Evidently Test Suite and a Grafana Alert](./days/70.md) | ✅ |
 | 71 | Set Up Evidently Monitoring Dashboard | ☐ |
 | 72 | Set Up Drift Detection Alerts | ☐ |
 | 73 | Automatic Retraining Triggered by Drift Detection | ☐ |
