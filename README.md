@@ -75,7 +75,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 69 | [Build a Grafana Table Panel for Per-Feature Data Drift](./days/69.md) | ✅ |
 | 70 | [Enforce Accuracy Gates with an Evidently Test Suite and a Grafana Alert](./days/70.md) | ✅ |
 | 71 | [Build a 4-Panel Model-Overview Grafana Dashboard](./days/71.md) | ✅ |
-| 72 | Set Up Drift Detection Alerts | ☐ |
+| 72 | [Configure a Grafana Contact Point and Notification Policy](./days/72.md) | ✅ |
 | 73 | Automatic Retraining Triggered by Drift Detection | ☐ |
 | 74 | Monitor Custom Business Metrics Alongside ML Metrics | ☐ |
 | 75 | End-to-End Monitoring: Prometheus, Grafana, Evidently | ☐ |
