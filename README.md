@@ -77,7 +77,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 71 | [Build a 4-Panel Model-Overview Grafana Dashboard](./days/71.md) | ✅ |
 | 72 | [Configure a Grafana Contact Point and Notification Policy](./days/72.md) | ✅ |
 | 73 | [Promote a Retrained Model via a Champion/Challenger Gate](./days/73.md) | ✅ |
-| 74 | Monitor Custom Business Metrics Alongside ML Metrics | ☐ |
+| 74 | [Add a Custom Business Metric and a Grafana Version Variable](./days/74.md) | ✅ |
 | 75 | End-to-End Monitoring: Prometheus, Grafana, Evidently | ☐ |
 | 76 | Create CI Pipeline for ML Code Linting and Testing | ☐ |
 | 77 | Add Data Validation to CI Pipeline | ☐ |
