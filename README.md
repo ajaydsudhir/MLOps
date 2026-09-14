@@ -81,7 +81,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 75 | [Fix and Complete an End-to-End Monitoring Stack: Prometheus, Grafana, Evidently](./days/75.md) | ✅ |
 | 76 | [Create CI Pipeline for ML Code Linting and Testing](./days/76.md) | ✅ |
 | 77 | [Fix a Failing Data-Quality Job in Gitea Actions](./days/77.md) | ✅ |
-| 78 | Add Model Validation Tests to CI | ☐ |
+| 78 | [Parallelise Tests via a Gitea Actions Matrix Strategy](./days/78.md) | ✅ |
 | 79 | Generate Model Performance Reports in CI with CML | ☐ |
 | 80 | Automate Model Registration in CI/CD | ☐ |
 | 81 | Automate Model Deployment with CD Pipeline | ☐ |
