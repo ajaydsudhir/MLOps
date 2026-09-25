@@ -86,7 +86,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 80 | [Wire Repository Secrets into a Gitea Actions Workflow](./days/80.md) | ✅ |
 | 81 | [Tag a Release and Publish to the Gitea Package Registry](./days/81.md) | ✅ |
 | 82 | [Compose Gitea Workflows via workflow_call](./days/82.md) | ✅ |
-| 83 | Automated Model Rollback with Health Checks | ☐ |
+| 83 | [Revert a Broken ML Release via the Gitea Revert Button](./days/83.md) | ✅ |
 | 84 | Production ML CI/CD with Multi-Environment Promotion | ☐ |
 | 85 | Install Argo Workflows on Kubernetes | ☐ |
 | 86 | Create a Basic ML Training Workflow in Argo | ☐ |
