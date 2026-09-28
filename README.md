@@ -88,7 +88,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 82 | [Compose Gitea Workflows via workflow_call](./days/82.md) | ✅ |
 | 83 | [Revert a Broken ML Release via the Gitea Revert Button](./days/83.md) | ✅ |
 | 84 | [Enforce Branch Protection on the main Branch](./days/84.md) | ✅ |
-| 85 | Install Argo Workflows on Kubernetes | ☐ |
+| 85 | [Submit Your First Argo Workflow](./days/85.md) | ✅ |
 | 86 | Create a Basic ML Training Workflow in Argo | ☐ |
 | 87 | Pass Data Between Argo Steps with Output Parameters and Branching | ☐ |
 | 88 | Create an ML Pipeline with Prefect | ☐ |
