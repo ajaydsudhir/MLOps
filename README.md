@@ -90,7 +90,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 84 | [Enforce Branch Protection on the main Branch](./days/84.md) | ✅ |
 | 85 | [Submit Your First Argo Workflow](./days/85.md) | ✅ |
 | 86 | [Fix a Broken Argo DAG Dependency Chain](./days/86.md) | ✅ |
-| 87 | Pass Data Between Argo Steps with Output Parameters and Branching | ☐ |
+| 87 | [Pass Data Between Argo Steps with Output Parameters and Branching](./days/87.md) | ✅ |
 | 88 | Create an ML Pipeline with Prefect | ☐ |
 | 89 | Parallel Model Training with Argo withItems Fan-Out | ☐ |
 | 90 | Automated Retraining with Argo CronWorkflow | ☐ |
