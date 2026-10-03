@@ -92,7 +92,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 86 | [Fix a Broken Argo DAG Dependency Chain](./days/86.md) | ✅ |
 | 87 | [Pass Data Between Argo Steps with Output Parameters and Branching](./days/87.md) | ✅ |
 | 88 | [Fix a Missing @task Decorator in a Prefect Flow](./days/88.md) | ✅ |
-| 89 | Parallel Model Training with Argo withItems Fan-Out | ☐ |
+| 89 | [Parallel Model Training with Argo withParam Fan-Out](./days/89.md) | ✅ |
 | 90 | Automated Retraining with Argo CronWorkflow | ☐ |
 | 91 | Production ML Pipeline: Argo Workflows + MLflow on Kubernetes | ☐ |
 | 92 | Deploy an ML Model on Kubernetes | ☐ |
