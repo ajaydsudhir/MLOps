@@ -98,7 +98,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 92 | [Fix a Service targetPort Mismatch on a Kubernetes Deployment](./days/92.md) | ✅ |
 | 93 | [Fix a Broken HorizontalPodAutoscaler scaleTargetRef](./days/93.md) | ✅ |
 | 94 | [Fix a Broken KServe InferenceService storageUri](./days/94.md) | ✅ |
-| 95 | Kubeflow Pipelines - Install and Run a Basic KFP Pipeline | ☐ |
+| 95 | [Complete a Kubeflow Pipeline and Run It via the KFP UI](./days/95.md) | ✅ |
 | 96 | GitOps Model Deployment with ArgoCD | ☐ |
 | 97 | Capstone (1/4): End-to-End ML System - Train, Register, Serve | ☐ |
 | 98 | Capstone (2/4): Monitoring and Automated Retraining | ☐ |
