@@ -100,7 +100,7 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 94 | [Fix a Broken KServe InferenceService storageUri](./days/94.md) | ✅ |
 | 95 | [Complete a Kubeflow Pipeline and Run It via the KFP UI](./days/95.md) | ✅ |
 | 96 | [Deploy a GitOps Application via the ArgoCD NEW APP Form](./days/96.md) | ✅ |
-| 97 | Capstone (1/4): End-to-End ML System - Train, Register, Serve | ☐ |
+| 97 | [Capstone (1/4): End-to-End MLOPs System — Train, Register, Serve](./days/97.md) | ✅ |
 | 98 | Capstone (2/4): Monitoring and Automated Retraining | ☐ |
 | 99 | Capstone (3/4): Orchestrate the Full MLOps Loop with Argo Workflows | ☐ |
 | 100 | Capstone (4/4): Close the Loop with Prometheus + Grafana Observability | ☐ |
