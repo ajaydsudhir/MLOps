@@ -103,4 +103,4 @@ My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud
 | 97 | [Capstone (1/4): End-to-End MLOPs System — Train, Register, Serve](./days/97.md) | ✅ |
 | 98 | [Capstone (2/4): Monitoring and Automated Retraining](./days/98.md) | ✅ |
 | 99 | [Capstone (3/4): GitOps Continuous Deployment with ArgoCD](./days/99.md) | ✅ |
-| 100 | Capstone (4/4): Close the Loop with Prometheus + Grafana Observability | ☐ |
+| 100 | [Capstone (4/4): Close the Loop with Prometheus + Grafana Observability](./days/100.md) | ✅ |
