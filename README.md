@@ -2,7 +2,9 @@
 
 My journey through the [KodeKloud 100 Days of MLOps Challenge](https://kodekloud.com/100-days-of-mlops) with 100 hands-on tasks covering the full MLOps lifecycle.
 
-| DAY | TASK | STATUS |
+![AJAY D SUDHIR - 100 Days of MLOps](AJAY_D_SUDHIR_100_Days_of_MLOps.jpg)
+
+| **DAY** | **TASK** | **STATUS** |
 | :-: | :-: | :-: |
 | 1 | [Create a Python Virtual Environment for ML](./days/1.md) | ✅ |
 | 2 | [Set Up and Configure Jupyter Notebook Server](./days/2.md) | ✅ |
